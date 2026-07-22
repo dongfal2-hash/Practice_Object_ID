@@ -32,5 +32,9 @@ This app is based on the following course reference repository: https://github.c
 
 Identified two elephants. 
 
+![Figure 2](./figures/Test2.jpg)
 
+
+
+![Figure 3](./figures/Test3.jpg)
 
