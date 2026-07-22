@@ -38,3 +38,4 @@ The model correctly identified one elephant, but got everything else wrong — i
 
 ![Figure 3](./figures/Test3.jpg)
 
+I resized part of the image and tested it again, and this is the result I got. It still fails to analyze this correctly, and the results are still being misinterpreted.
