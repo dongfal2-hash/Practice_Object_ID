@@ -34,7 +34,7 @@ Identified two elephants.
 
 ![Figure 2](./figures/Test2.jpg)
 
-
+The model correctly identified one elephant, but got everything else wrong — it labeled the lion as a sheep, merged two rhinos into a single elephant box, mistook the buffalo for a cow, and completely missed the leopard.
 
 ![Figure 3](./figures/Test3.jpg)
 
